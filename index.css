@@ -1,0 +1,25 @@
+h1{
+  text-align: center;
+  text-decoration: underline dashed crimson;
+  text-shadow: 2px 10px 2px black;
+
+  letter-spacing: 20px;
+  word-spacing: 20px;
+  line-height: 20px;
+
+
+
+
+
+  text-transform: uppercase;
+
+
+
+  color: crimson;
+  background: yellowgreen;
+
+  text-overflow: clip;
+
+
+
+}
